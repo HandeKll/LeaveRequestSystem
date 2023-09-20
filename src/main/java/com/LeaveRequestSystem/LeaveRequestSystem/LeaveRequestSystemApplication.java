@@ -8,7 +8,6 @@ public class LeaveRequestSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LeaveRequestSystemApplication.class, args);
-		System.out.println("başladı.");
 	}
 
 }
